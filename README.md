@@ -37,8 +37,9 @@ In the test suites all tests but the first have been skipped.
 Once you get a test passing, you can enable the next one by changing `xtest` to
 `test`.
 
-## Sources
+## Source
 
-Software Craftsmanship - Coin Change Kata [https://web.archive.org/web/20130115115225/http://craftsmanship.sv.cmu.edu:80/exercises/coin-change-kata](https://web.archive.org/web/20130115115225/http://craftsmanship.sv.cmu.edu:80/exercises/coin-change-kata)
 [Exercism.io](https://exercism.io/tracks/javascript/exercises/change)
 
+## Other Katas
+[View all our katas on github](https://github.com/vehikl/katas)
